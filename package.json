@@ -20,7 +20,9 @@
         "vue": "^3.4.0"
     },
     "dependencies": {
+        "@ably/laravel-echo": "^1.0.5",
         "@vueuse/core": "^10.11.0",
+        "ably": "^1.2.50",
         "pinia": "^2.1.7"
     }
 }
